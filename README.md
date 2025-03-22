@@ -106,7 +106,7 @@ OxiCloud incorporates multiple advanced performance optimizations:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/oxicloud.git
+git clone https://github.com/diocrafts/oxicloud.git
 cd oxicloud
 
 # Build the project
